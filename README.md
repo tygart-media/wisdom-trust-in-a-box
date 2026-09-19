@@ -1,5 +1,7 @@
 # wisdom-trust-in-a-box
 
+![Every retirement facility should be a library](images/featured.webp)
+
 An open-source starter kit for capturing elders' life stories at retirement facilities — and leaving them behind like a fortune.
 
 **The idea:** every retirement facility should be a library. A hundred residents hold centuries of lived knowledge. This kit gives any facility (or any builder) everything needed to pilot a life-story capture program: the questions, the onboarding flow, the consent language, the pitch, and the economics.
